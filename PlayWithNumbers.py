@@ -1,8 +1,7 @@
 import tkinter
 import random
 from random import randint
-import time
-from tkinter import *
+from tkinter import Button
 import matplotlib.pyplot as plt
 import numpy as np
 
